@@ -2,8 +2,8 @@ import React from 'react';
 
 const Index = () => {
   return (
-    <div className="min-h-screen flex flex-col bg-red-500 text-white">
-      <header className="bg-red-700 p-4">
+    <div className="min-h-screen flex flex-col bg-green-500 text-white">
+      <header className="bg-green-700 p-4">
         <h1 className="text-2xl font-bold">My Website</h1>
       </header>
       
