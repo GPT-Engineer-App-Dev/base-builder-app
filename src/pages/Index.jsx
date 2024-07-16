@@ -11,6 +11,10 @@ const Index = () => {
         <h2 className="text-3xl font-semibold mb-4">Welcome to My Website</h2>
         <p className="text-lg">This is the main content area of the page.</p>
       </main>
+
+      <footer className="bg-gray-200 p-4 text-center">
+        <p>&copy; 2023 My Website. All rights reserved.</p>
+      </footer>
     </div>
   );
 };
